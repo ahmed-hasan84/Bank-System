@@ -1,0 +1,18 @@
+﻿  Project_#1.cpp
+E:\Basic_Programming\Level_8\Code\Project_#1\Project_#1\Project_#1.cpp(37,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+E:\Basic_Programming\Level_8\Code\Project_#1\Project_#1\Project_#1.cpp(505,27): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+E:\Basic_Programming\Level_8\Code\Project_#1\Project_#1\Project_#1.cpp(505,43): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+E:\Basic_Programming\Level_8\Code\Project_#1\Project_#1\Project_#1.cpp(517,27): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+E:\Basic_Programming\Level_8\Code\Project_#1\Project_#1\Project_#1.cpp(517,44): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+E:\Basic_Programming\Level_8\Code\Project_#1\Project_#1\Project_#1.cpp(529,27): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+E:\Basic_Programming\Level_8\Code\Project_#1\Project_#1\Project_#1.cpp(529,44): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+E:\Basic_Programming\Level_8\Code\Project_#1\Project_#1\Project_#1.cpp(541,27): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+E:\Basic_Programming\Level_8\Code\Project_#1\Project_#1\Project_#1.cpp(541,44): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+E:\Basic_Programming\Level_8\Code\Project_#1\Project_#1\Project_#1.cpp(553,27): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+E:\Basic_Programming\Level_8\Code\Project_#1\Project_#1\Project_#1.cpp(553,44): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+E:\Basic_Programming\Level_8\Code\Project_#1\Project_#1\Project_#1.cpp(565,27): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+E:\Basic_Programming\Level_8\Code\Project_#1\Project_#1\Project_#1.cpp(565,44): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+E:\Basic_Programming\Level_8\Code\Project_#1\Project_#1\Project_#1.cpp(576,27): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+E:\Basic_Programming\Level_8\Code\Project_#1\Project_#1\Project_#1.cpp(576,44): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+E:\Basic_Programming\Level_8\Code\Project_#1\Project_#1\Project_#1.cpp(1159,1): warning C4715: 'DeleteUserByUserName': not all control paths return a value
+  Project_#1.vcxproj -> E:\Basic_Programming\Level_8\Code\Project_#1\x64\Debug\Project_#1.exe
